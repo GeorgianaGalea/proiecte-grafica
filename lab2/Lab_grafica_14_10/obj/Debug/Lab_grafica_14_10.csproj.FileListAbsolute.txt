@@ -1,0 +1,11 @@
+D:\info an 3\Grafica calculator lab\Lab_grafica_14_10\Lab_grafica_14_10\bin\Debug\Lab_grafica_14_10.exe.config
+D:\info an 3\Grafica calculator lab\Lab_grafica_14_10\Lab_grafica_14_10\bin\Debug\Lab_grafica_14_10.exe
+D:\info an 3\Grafica calculator lab\Lab_grafica_14_10\Lab_grafica_14_10\bin\Debug\Lab_grafica_14_10.pdb
+D:\info an 3\Grafica calculator lab\Lab_grafica_14_10\Lab_grafica_14_10\obj\Debug\Lab_grafica_14_10.csproj.AssemblyReference.cache
+D:\info an 3\Grafica calculator lab\Lab_grafica_14_10\Lab_grafica_14_10\obj\Debug\Lab_grafica_14_10.Form1.resources
+D:\info an 3\Grafica calculator lab\Lab_grafica_14_10\Lab_grafica_14_10\obj\Debug\Lab_grafica_14_10.Properties.Resources.resources
+D:\info an 3\Grafica calculator lab\Lab_grafica_14_10\Lab_grafica_14_10\obj\Debug\Lab_grafica_14_10.csproj.GenerateResource.cache
+D:\info an 3\Grafica calculator lab\Lab_grafica_14_10\Lab_grafica_14_10\obj\Debug\Lab_grafica_14_10.csproj.CoreCompileInputs.cache
+D:\info an 3\Grafica calculator lab\Lab_grafica_14_10\Lab_grafica_14_10\obj\Debug\Lab_grafica_14_10.exe
+D:\info an 3\Grafica calculator lab\Lab_grafica_14_10\Lab_grafica_14_10\obj\Debug\Lab_grafica_14_10.pdb
+D:\info an 3\Grafica calculator lab\Lab_grafica_14_10\Lab_grafica_14_10\obj\Debug\Lab_grafica_14_10.exe.config

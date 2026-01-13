@@ -1,0 +1,10 @@
+D:\info an 3\lab8\lab8\obj\Debug\lab8.csproj.AssemblyReference.cache
+D:\info an 3\lab8\lab8\obj\Debug\lab8.Form1.resources
+D:\info an 3\lab8\lab8\obj\Debug\lab8.Properties.Resources.resources
+D:\info an 3\lab8\lab8\obj\Debug\lab8.csproj.GenerateResource.cache
+D:\info an 3\lab8\lab8\obj\Debug\lab8.csproj.CoreCompileInputs.cache
+D:\info an 3\lab8\lab8\bin\Debug\lab8.exe.config
+D:\info an 3\lab8\lab8\bin\Debug\lab8.exe
+D:\info an 3\lab8\lab8\bin\Debug\lab8.pdb
+D:\info an 3\lab8\lab8\obj\Debug\lab8.exe
+D:\info an 3\lab8\lab8\obj\Debug\lab8.pdb
