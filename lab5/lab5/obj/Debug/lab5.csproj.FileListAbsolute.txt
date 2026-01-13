@@ -1,0 +1,11 @@
+D:\info an 3\lab5\lab5\bin\Debug\lab5.exe.config
+D:\info an 3\lab5\lab5\bin\Debug\lab5.exe
+D:\info an 3\lab5\lab5\bin\Debug\lab5.pdb
+D:\info an 3\lab5\lab5\obj\Debug\lab5.csproj.AssemblyReference.cache
+D:\info an 3\lab5\lab5\obj\Debug\lab5.Form1.resources
+D:\info an 3\lab5\lab5\obj\Debug\lab5.Properties.Resources.resources
+D:\info an 3\lab5\lab5\obj\Debug\lab5.csproj.GenerateResource.cache
+D:\info an 3\lab5\lab5\obj\Debug\lab5.csproj.CoreCompileInputs.cache
+D:\info an 3\lab5\lab5\obj\Debug\lab5.exe
+D:\info an 3\lab5\lab5\obj\Debug\lab5.pdb
+D:\info an 3\lab5\lab5\obj\Debug\lab5.exe.config
